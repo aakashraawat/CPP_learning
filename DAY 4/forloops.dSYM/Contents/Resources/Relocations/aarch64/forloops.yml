@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/DAY 4/forloops'
+relocations:
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E00, symSize: 0x94 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1E028, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3546, offset: 0x3546, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x109, symBinAddr: 0x100003F51, symSize: 0x0 }
+  - { offsetInCU: 0x3560, offset: 0x3560, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x10A, symBinAddr: 0x100003F52, symSize: 0x0 }
+  - { offsetInCU: 0x357A, offset: 0x357A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x10B, symBinAddr: 0x100003F53, symSize: 0x0 }
+  - { offsetInCU: 0x35A4, offset: 0x35A4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_forloops.cpp, symObjAddr: 0xD0, symBinAddr: 0x100003ED0, symSize: 0x14 }
+  - { offsetInCU: 0x35CC, offset: 0x35CC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x94, symBinAddr: 0x100003E94, symSize: 0x3C }
+  - { offsetInCU: 0x35D4, offset: 0x35D4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_forloops.cpp, symObjAddr: 0xD0, symBinAddr: 0x100003ED0, symSize: 0x14 }
+  - { offsetInCU: 0x35C8, offset: 0x35C8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E00, symSize: 0x94 }
+  - { offsetInCU: 0x35D0, offset: 0x35D0, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x94, symBinAddr: 0x100003E94, symSize: 0x3C }
+...

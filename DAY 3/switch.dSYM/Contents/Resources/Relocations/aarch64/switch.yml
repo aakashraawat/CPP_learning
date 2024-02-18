@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/DAY 3/switch'
+relocations:
+  - { offsetInCU: 0xCE, offset: 0xCE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C98, symSize: 0x1D0 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1E188, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3546, offset: 0x3546, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x27C, symBinAddr: 0x100003F54, symSize: 0x0 }
+  - { offsetInCU: 0x3560, offset: 0x3560, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x27D, symBinAddr: 0x100003F55, symSize: 0x0 }
+  - { offsetInCU: 0x357A, offset: 0x357A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x27E, symBinAddr: 0x100003F56, symSize: 0x0 }
+  - { offsetInCU: 0x35A2, offset: 0x35A2, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_switch.cpp, symObjAddr: 0x20C, symBinAddr: 0x100003EA4, symSize: 0x14 }
+  - { offsetInCU: 0x35CC, offset: 0x35CC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x1D0, symBinAddr: 0x100003E68, symSize: 0x3C }
+  - { offsetInCU: 0x35D4, offset: 0x35D4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_switch.cpp, symObjAddr: 0x20C, symBinAddr: 0x100003EA4, symSize: 0x14 }
+  - { offsetInCU: 0x35C8, offset: 0x35C8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C98, symSize: 0x1D0 }
+  - { offsetInCU: 0x35D0, offset: 0x35D0, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x1D0, symBinAddr: 0x100003E68, symSize: 0x3C }
+...
