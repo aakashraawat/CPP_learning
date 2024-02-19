@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/DAY 6(ARRAY)/SumofArray'
+relocations:
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0xBC }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1E008, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3546, offset: 0x3546, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x140, symBinAddr: 0x100003F50, symSize: 0x0 }
+  - { offsetInCU: 0x3560, offset: 0x3560, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x141, symBinAddr: 0x100003F51, symSize: 0x0 }
+  - { offsetInCU: 0x357A, offset: 0x357A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x142, symBinAddr: 0x100003F52, symSize: 0x0 }
+  - { offsetInCU: 0x35A6, offset: 0x35A6, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_SumofArray.cpp, symObjAddr: 0xF8, symBinAddr: 0x100003ECC, symSize: 0x14 }
+  - { offsetInCU: 0x35CC, offset: 0x35CC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0xBC, symBinAddr: 0x100003E90, symSize: 0x3C }
+  - { offsetInCU: 0x35D4, offset: 0x35D4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_SumofArray.cpp, symObjAddr: 0xF8, symBinAddr: 0x100003ECC, symSize: 0x14 }
+  - { offsetInCU: 0x35C8, offset: 0x35C8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0xBC }
+  - { offsetInCU: 0x35D0, offset: 0x35D0, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0xBC, symBinAddr: 0x100003E90, symSize: 0x3C }
+...

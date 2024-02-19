@@ -21,7 +21,7 @@ int main()
 	{
 		if(key==A[i]) // no is in the list it will get the place
 		{
-			cout<<"Found at"<<i;
+			cout<<"Found at"<<i;// print the location in the array
 			return 0;
 		}
 	}
