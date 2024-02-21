@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/Day 11 (Function )/FunctionTemplateSum'
+relocations:
+  - { offsetInCU: 0xF5, offset: 0xF5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CA4, symSize: 0xE4 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1E4A0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3546, offset: 0x3546, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x1AA, symBinAddr: 0x100003ED0, symSize: 0x0 }
+  - { offsetInCU: 0x3560, offset: 0x3560, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x1AB, symBinAddr: 0x100003ED1, symSize: 0x0 }
+  - { offsetInCU: 0x357A, offset: 0x357A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x1AC, symBinAddr: 0x100003ED2, symSize: 0x0 }
+  - { offsetInCU: 0x35AF, offset: 0x35AF, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_FunctionTemplateSum.cpp, symObjAddr: 0x18C, symBinAddr: 0x100003E30, symSize: 0x14 }
+  - { offsetInCU: 0x35CC, offset: 0x35CC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x150, symBinAddr: 0x100003DF4, symSize: 0x3C }
+  - { offsetInCU: 0x35D4, offset: 0x35D4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_FunctionTemplateSum.cpp, symObjAddr: 0x18C, symBinAddr: 0x100003E30, symSize: 0x14 }
+  - { offsetInCU: 0x35E3, offset: 0x35E3, size: 0x8, addend: 0x0, symName: __Z3SumIfET_S0_S0_S0_, symObjAddr: 0x12C, symBinAddr: 0x100003DD0, symSize: 0x24 }
+  - { offsetInCU: 0x35EB, offset: 0x35EB, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x150, symBinAddr: 0x100003DF4, symSize: 0x3C }
+  - { offsetInCU: 0x3654, offset: 0x3654, size: 0x8, addend: 0x0, symName: __Z3SumIdET_S0_S0_S0_, symObjAddr: 0x108, symBinAddr: 0x100003DAC, symSize: 0x24 }
+  - { offsetInCU: 0x365C, offset: 0x365C, size: 0x8, addend: 0x0, symName: __Z3SumIfET_S0_S0_S0_, symObjAddr: 0x12C, symBinAddr: 0x100003DD0, symSize: 0x24 }
+  - { offsetInCU: 0x36C1, offset: 0x36C1, size: 0x8, addend: 0x0, symName: __Z3SumIiET_S0_S0_S0_, symObjAddr: 0xE4, symBinAddr: 0x100003D88, symSize: 0x24 }
+  - { offsetInCU: 0x36C9, offset: 0x36C9, size: 0x8, addend: 0x0, symName: __Z3SumIdET_S0_S0_S0_, symObjAddr: 0x108, symBinAddr: 0x100003DAC, symSize: 0x24 }
+  - { offsetInCU: 0x3718, offset: 0x3718, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CA4, symSize: 0xE4 }
+  - { offsetInCU: 0x3720, offset: 0x3720, size: 0x8, addend: 0x0, symName: __Z3SumIiET_S0_S0_S0_, symObjAddr: 0xE4, symBinAddr: 0x100003D88, symSize: 0x24 }
+...
