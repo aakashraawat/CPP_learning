@@ -1,5 +1,5 @@
 /*Call by value : if you change in intial parameter in the function it wont take change in the main function*/
-
+// use to return some new value such as z =x+y but if want to change the formal parameter of function you need to use call by address or reference
 #include <iostream>
 #include <cmath>
 

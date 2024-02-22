@@ -1,4 +1,5 @@
 // call by reference : Changes can be done to main vairiables 
+// dont write complex things in call by reference function no loops .. statements are sufficient
 
 #include <iostream>
 #include <cmath>
