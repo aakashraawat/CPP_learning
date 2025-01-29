@@ -1,4 +1,4 @@
-// STATIC VARIABLE: Imagine that are gloabal and they are limited to the functiomn
+// STATIC VARIABLE: Imagine that they  are gloabal and they are limited to the functiomn
 
 #include <iostream>
 #include <cmath>
@@ -7,7 +7,7 @@
 using namespace std;
 
 
-//int v = 0;// global variable
+int v = 0;// global variable
 
 int fun (){
     // static fuunction is created only one time / so second time it wont be = 0,

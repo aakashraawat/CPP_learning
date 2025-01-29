@@ -8,7 +8,7 @@
 //3. Inheritence  : You have a class Car and all the companies  BMW,Mercedes , bugatti inherit all features from class car and some of there own functiions
 
 
-//4. Polymorphism
+//4. Polymorphism : If u can learn how to use a one internet browser you can work on all chrome ,firefox ,opera, safari basic proceduer is same but some diff
 
 #include <iostream>
 

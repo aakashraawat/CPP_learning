@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/DAY 13 (Constructors OOPs)/ScopeResultionOperator'
+relocations:
+  - { offsetInCU: 0x108, offset: 0x108, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EF0, symSize: 0x8 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x58, symBinAddr: 0x100003F64, symSize: 0x0 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1DA88, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3546, offset: 0x3546, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x58, symBinAddr: 0x100003F64, symSize: 0x0 }
+  - { offsetInCU: 0x3560, offset: 0x3560, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x59, symBinAddr: 0x100003F65, symSize: 0x0 }
+  - { offsetInCU: 0x357A, offset: 0x357A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x5A, symBinAddr: 0x100003F66, symSize: 0x0 }
+  - { offsetInCU: 0x35B2, offset: 0x35B2, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_ScopeResultionOperator.cpp, symObjAddr: 0x44, symBinAddr: 0x100003F34, symSize: 0x14 }
+  - { offsetInCU: 0x35BA, offset: 0x35BA, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x58, symBinAddr: 0x100003F64, symSize: 0x0 }
+  - { offsetInCU: 0x35CC, offset: 0x35CC, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x8, symBinAddr: 0x100003EF8, symSize: 0x3C }
+  - { offsetInCU: 0x35D4, offset: 0x35D4, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_ScopeResultionOperator.cpp, symObjAddr: 0x44, symBinAddr: 0x100003F34, symSize: 0x14 }
+  - { offsetInCU: 0x35C8, offset: 0x35C8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EF0, symSize: 0x8 }
+  - { offsetInCU: 0x35D0, offset: 0x35D0, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x8, symBinAddr: 0x100003EF8, symSize: 0x3C }
+...

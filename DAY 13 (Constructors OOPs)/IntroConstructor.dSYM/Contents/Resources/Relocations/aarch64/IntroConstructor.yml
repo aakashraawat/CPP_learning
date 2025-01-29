@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aakashrawat/Downloads/C++(Deep Dive)/DAY 13 (Constructors OOPs)/IntroConstructor'
+relocations:
+  - { offsetInCU: 0x102, offset: 0x102, size: 0x8, addend: 0x0, symName: __ZN9Rectangle9setLengthEd, symObjAddr: 0x0, symBinAddr: 0x100003C44, symSize: 0x48 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1E668, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x3653, offset: 0x3653, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x1FD, symBinAddr: 0x100003EAD, symSize: 0x0 }
+  - { offsetInCU: 0x366D, offset: 0x366D, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x1FE, symBinAddr: 0x100003EAE, symSize: 0x0 }
+  - { offsetInCU: 0x3687, offset: 0x3687, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x1FF, symBinAddr: 0x100003EAF, symSize: 0x0 }
+  - { offsetInCU: 0x36B9, offset: 0x36B9, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_IntroConstructor.cpp, symObjAddr: 0x1A8, symBinAddr: 0x100003DEC, symSize: 0x14 }
+  - { offsetInCU: 0x36D9, offset: 0x36D9, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x16C, symBinAddr: 0x100003DB0, symSize: 0x3C }
+  - { offsetInCU: 0x36E1, offset: 0x36E1, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_IntroConstructor.cpp, symObjAddr: 0x1A8, symBinAddr: 0x100003DEC, symSize: 0x14 }
+  - { offsetInCU: 0x36D5, offset: 0x36D5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x100003D10, symSize: 0xA0 }
+  - { offsetInCU: 0x36DD, offset: 0x36DD, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x16C, symBinAddr: 0x100003DB0, symSize: 0x3C }
+  - { offsetInCU: 0x3705, offset: 0x3705, size: 0x8, addend: 0x0, symName: __ZN9Rectangle4areaEv, symObjAddr: 0xA8, symBinAddr: 0x100003CEC, symSize: 0x24 }
+  - { offsetInCU: 0x370D, offset: 0x370D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x100003D10, symSize: 0xA0 }
+  - { offsetInCU: 0x3734, offset: 0x3734, size: 0x8, addend: 0x0, symName: __ZN9Rectangle10getBreadthEv, symObjAddr: 0x90, symBinAddr: 0x100003CD4, symSize: 0x18 }
+  - { offsetInCU: 0x373C, offset: 0x373C, size: 0x8, addend: 0x0, symName: __ZN9Rectangle4areaEv, symObjAddr: 0xA8, symBinAddr: 0x100003CEC, symSize: 0x24 }
+  - { offsetInCU: 0x3763, offset: 0x3763, size: 0x8, addend: 0x0, symName: __ZN9Rectangle10setBreadthEd, symObjAddr: 0x48, symBinAddr: 0x100003C8C, symSize: 0x48 }
+  - { offsetInCU: 0x376B, offset: 0x376B, size: 0x8, addend: 0x0, symName: __ZN9Rectangle10getBreadthEv, symObjAddr: 0x90, symBinAddr: 0x100003CD4, symSize: 0x18 }
+  - { offsetInCU: 0x37A5, offset: 0x37A5, size: 0x8, addend: 0x0, symName: __ZN9Rectangle9setLengthEd, symObjAddr: 0x0, symBinAddr: 0x100003C44, symSize: 0x48 }
+  - { offsetInCU: 0x37AD, offset: 0x37AD, size: 0x8, addend: 0x0, symName: __ZN9Rectangle10setBreadthEd, symObjAddr: 0x48, symBinAddr: 0x100003C8C, symSize: 0x48 }
+...
